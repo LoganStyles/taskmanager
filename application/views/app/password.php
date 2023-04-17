@@ -96,7 +96,7 @@ $site_title = $site[0]["title"];
     <!-- Placed js at the end of the document so the pages load faster -->
 
     <!-- Placed js at the end of the document so the pages load faster -->
-    <script src="<?php echo base_url(); ?>js_admin/jquery-1.10.2.min.js"></script>
+    <script src="<?php echo base_url(); ?>js_admin/jquery-3.6.4.min.js"></script>
     <script src="<?php echo base_url(); ?>js_admin/bootstrap.min.js"></script>
     <script src="<?php echo base_url(); ?>js_admin/modernizr.min.js"></script>
 
